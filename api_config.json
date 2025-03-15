@@ -1,0 +1,14 @@
+{
+    "api_list": {
+        "原神": "http://66.521.wiki/zf",
+        "黑丝": "http://api.1.521.wiki/api1/tp2.php?url=2",
+        "白丝": "http://api.1.521.wiki/api1/tp2.php?url=3",
+        "小狐狸": "http://api.1.521.wiki/api1/tp3.php?url=1",
+        "测试": "http://api.1.521.wiki/api1/tp2.php?url=2"
+    },
+    "direct_url_list": {
+        "樱花": "https://www.dmoe.cc/random.php",
+        "二次元": "https://tc.alcy.cc/i/2024/04/21/66241540c90d1.webp",
+        "二次元1": "https://t.alcy.cc/ycy"
+    }
+}
