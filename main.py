@@ -15,7 +15,7 @@ from astrbot.api.message_components import Plain, Image, Video, File
 DATA_FILE = Path(__file__).parent / "api_config.json"
 @register("astrbot_plugin_picture_manager", "大沙北",
           "API图片发送插件，允许用户通过自定义触发指令从API或直接URL获取图片，内置了一些测试用的图片URL（添加后即可使用）",
-          "v1.8.0")
+          "v1.3.0")
 class PictureManagerPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
