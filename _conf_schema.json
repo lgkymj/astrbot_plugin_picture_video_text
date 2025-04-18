@@ -1,0 +1,14 @@
+{
+    "enabled": {
+        "description": "插件总开关",
+        "type": "bool",
+        "hint": "是否启用图片/视频发送插件",
+        "default": true
+    },
+    "default_view_count": {
+        "description": "看图指令默认数量",
+        "type": "int",
+        "hint": "看图指令未指定数量时的默认值，最小为1",
+        "default": 1
+    }
+}

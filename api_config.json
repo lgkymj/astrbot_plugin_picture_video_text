@@ -1,14 +1,135 @@
 {
     "api_list": {
-        "原神": "http://66.521.wiki/zf",
-        "黑丝": "http://api.1.521.wiki/api1/tp2.php?url=2",
-        "白丝": "http://api.1.521.wiki/api1/tp2.php?url=3",
-        "小狐狸": "http://api.1.521.wiki/api1/tp3.php?url=1",
-        "测试": "http://api.1.521.wiki/api1/tp2.php?url=2"
+        "原神": [
+            "http://66.521.wiki/zf"
+        ],
+        "黑丝": [
+            "http://api.1.521.wiki/api1/tp2.php?url=2"
+        ],
+        "白丝": [
+            "http://api.1.521.wiki/api1/tp2.php?url=3"
+        ],
+        "小狐狸": [
+            "http://api.1.521.wiki/api1/tp3.php?url=1"
+        ],
+        "测试": [
+            "http://api.1.521.wiki/api1/tp2.php?url=2"
+        ],
+        "美腿": [
+            "https://api.suyanw.cn/api/meitui.php"
+        ],
+        "帅哥": [
+            "https://api.suyanw.cn/api/boy.php"
+        ],
+        "acg1": [
+            "https://t.alcy.cc/acg"
+        ],
+        "小姐姐1": [
+            "http://api.1.521.wiki/api1/sp1"
+        ],
+        "测试0003": [
+            "http://api.1.521.wiki/jietu/x.php?px=1280x6000&url=https://news.cctv.com/rjd/index.shtml?spm=C94212.PBPcw7UCTq1W.ErM0s5xYIrhP.9"
+        ],
+        "测05": [
+            "http://api.1.521.wiki/api1/tp1.php?url=5"
+        ],
+        "测06": [
+            "http://66.521.wiki/wen"
+        ],
+        "测试012": [
+            "https://t.alcy.cc/ycy/?json&quantity=20"
+        ]
     },
     "direct_url_list": {
-        "樱花": "https://www.dmoe.cc/random.php",
-        "二次元": "https://tc.alcy.cc/i/2024/04/21/66241540c90d1.webp",
-        "二次元1": "https://t.alcy.cc/ycy"
+        "樱花": [
+            "https://www.dmoe.cc/random.php"
+        ],
+        "二次元": [
+            "https://tc.alcy.cc/i/2024/04/21/66241540c90d1.webp"
+        ],
+        "二次元1": [
+            "https://t.alcy.cc/ycy"
+        ],
+        "jk": [
+            "https://api.suyanw.cn/api/jk.php"
+        ],
+        "猫": [
+            "https://api.suyanw.cn/api/mao.php"
+        ],
+        "原神游戏": [
+            "https://api.suyanw.cn/api/ys.php"
+        ],
+        "妹子": [
+            "https://api.suyanw.cn/api/meizi.php"
+        ],
+        "电脑壁纸": [
+            "https://api.suyanw.cn/api/sjbz.php?method=pc&lx=dongman"
+        ],
+        "手机壁纸": [
+            "https://api.suyanw.cn/api/sjbz.php?method=pc&lx=suiji"
+        ],
+        "mc": [
+            "https://api.suyanw.cn/api/mcapi.php"
+        ],
+        "二次元PC": [
+            "https://api.suyanw.cn/api/comic.php"
+        ],
+        "错误码": [
+            "http://api.1.521.wiki/tupian/cwm.jpg"
+        ],
+        "测0001": [
+            "https://blog.soulter.top/assets/banner.jpg"
+        ],
+        "测0002": [
+            "file://data/temp/1742386907_048c59c9.jpg"
+        ],
+        "测02": [
+            "file://temp/1742451215_910a2d17.jpg"
+        ],
+        "测03": [
+            "/AstrBot/data/temp/1742451215_910a2d17.jpg"
+        ],
+        "本地测1": [
+            "/AstrBot/data/temp/1742451215_910a2d17.jpg"
+        ],
+        "吊带": [
+            "http://api.szcyyds.icu/api/yy?type=dd"
+        ],
+        "女大学生": [
+            "http://api.szcyyds.icu/api/yy?type=ndxs"
+        ],
+        "白丝视频": [
+            "http://api.szcyyds.icu/api/yy?type=bs"
+        ],
+        "黑丝视频": [
+            "http://api.szcyyds.icu/api/yy?type=hs"
+        ],
+        "清纯": [
+            "http://api.szcyyds.icu/api/yy?type=qc"
+        ],
+        "变装": [
+            "http://api.szcyyds.icu/api/yy?type=ksbz"
+        ],
+        "甜妹": [
+            "http://api.szcyyds.icu/api/yy?type=tm"
+        ],
+        "萝莉": [
+            "http://api.szcyyds.icu/api/yy?type=ll"
+        ],
+        "黄片": [
+            "https://kkimgs.yisou.com/ims?f=webp&kt=url&at=smstruct&key=aHR0cDovL2kwLmhkc2xiLmNvbS9iZnMvYXJ0aWNsZS8zNDI5MmFmZDU5Nzg3MzU5YjU1N2VmYmU4ZmM5NGViNzM5OWQzZWEwLmpwZw==&sign=yx:eJmLD40pgh1ZP2wZB6a4xAzJ_T4=&tv=400_400"
+        ],
+        "小姐姐": [
+            "https://api.dwo.cc/api/video?v=xd"
+        ],
+        "acg": [
+            "https://t.alcy.cc/acg"
+        ],
+        "玉足": [
+            "http://api.szcyyds.icu/api/yy?type=jpyz"
+        ],
+        "性科普": [
+            "http://api.7645.cn/video/index.php?type=sex_video&id="
+        ]
     }
 }
