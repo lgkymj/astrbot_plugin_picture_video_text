@@ -17,7 +17,7 @@ from astrbot.api import AstrBotConfig
 
 DATA_FILE = Path(__file__).parent / "api_config.json"
 
-@register("astrbot_plugin_picture_manager", "代码工匠💻",
+@register("https://github.com/lgkymj/astrbot_plugin_picture_video_text", "代码工匠💻",
           "API图片/视频/文本发送插件，允许用户通过自定义触发指令从API获取图片、视频或文本内容，支持多链接转发和随机API调用",
           "v2.3.0")
 class PictureManagerPlugin(Star):
